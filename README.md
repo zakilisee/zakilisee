@@ -8,22 +8,18 @@
 </div>
 
 
-# Hi, I'm Zakaria 👋
+# Hi, I'm zaki 👋
 
-Full-stack developer focused on building React Native applications and modern web apps.<br>
-🚀 Building mobile apps with React Native + Expo<br>
-⚡ Creating open-source projects<br>
-📚 Learning PostgreSQL and backend development<br>
+I'm a cross platform app dev.<br>
+🚀 I build apps using react native<br>
+⚡ Open to contribute whenever I can br>
+📚 I try to expand my knowledge to master backend<br>
 
 # 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    5 hrs 30 mins         █████████████░░░░░░░░░░░░   52.63 %
-TailWindCSS   2 hrs 9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-TypeScript    1 hr 41 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Postgres      28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Express       21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+
 ```
 
 <!--END_SECTION:waka-->
@@ -39,15 +35,15 @@ from here
   <img src="1200.jpg" width="800"/>
 </p>
 <center>
-A modern habit tracking application built with React Native and Expo.
+Habit tracking app in react native
 
-🔹 Create and manage habits<br>
-🔹 Track daily progress<br>
-🔹 Beautiful mobile-first UI<br>
+🔹 create/edit habits<br>
+🔹 Track you're daily progress<br>
+🔹 gamified habit tracker with level up system and streaks<br>
 
-🛠️ **Built With:** React Native • Expo • PostgreSQL
+🛠️ **Tech stack:** React Native • Expo • supabase
 
-🔗 **Links:** [📂 Source Code](YOUR_GITHUB_LINK) • [🚀 Live Demo](YOUR_DEMO_LINK)
+🔗 **Links:** [📂 Source Code](https://github.com/zakilisee/) • [🚀 Live Demo](https://github.com/zakilisee/)
 
 </center>
 ---
