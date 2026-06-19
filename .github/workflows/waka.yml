@@ -13,30 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Get WakaTime total stats
-        run: |
-          curl -s -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
-          "https://wakatime.com/api/v1/users/current/all_time_since_today" \
-          -o waka.json
-
-      - name: Generate README block
-        run: |
-          python3 - << 'EOF'
-          import json
-
-          with open("waka.json") as f:
-              data = json.load(f)
-
-          # safe extraction
-          total_seconds = data.get("data", {}).get("total_seconds", 0)
-
-          hours = int(total_seconds // 3600)
-          minutes = int((total_seconds % 3600) // 60)
-
-          output = f"""# 📊 coding time
-
-```txt
-Total coding time: {hours}h {minutes}m
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          SHOW_TOTAL: true
