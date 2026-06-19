@@ -13,11 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: zakilisee
+
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=fe428e&color_dots=141321,1f0a2e,3b1366,6d2cff,fe428e
+            dist/github-contribution-grid-snake.svg
+
+      - name: Generate Radical Snake Theme
+        run: |
+          sed -i 's/#39d353/#fe428e/g' dist/github-contribution-grid-snake.svg || true
+          sed -i 's/#2ea043/#c13cff/g' dist/github-contribution-grid-snake.svg || true
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
