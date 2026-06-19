@@ -21,6 +21,8 @@ I'm an app dev and js lover.<br>
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 38 mins
+
 TypeScript   34 mins               ██████████████████████░░░   88.52 %
 JavaScript   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 CSS          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
