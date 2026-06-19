@@ -3,24 +3,22 @@
   <br>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakilisie&color=blue"/>
-</div>
+<p align="center">
+  <a href="https://github.com/DIMFLIX/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=zakilisee&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox">
+  </a>
+</p>
 
 
-# Hi, I'm zaki 👋
+# Hey, I'm zaki 👋
 
-I'm a cross platform app dev.<br>
-🚀 I build apps using react native<br>
-⚡ Open to contribute whenever I can br>
-📚 I try to expand my knowledge to master backend<br>
+I'm an app dev and js lover.<br>
+🚀 I love using React Native because it's crossPlatform and js based<br>
+⚡ enjoy contributing to open source projects<br>
+📚 I'm expanding my knowledge to the backend side of app developement<br>
 
 # 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-
-```
 
 <!--END_SECTION:waka-->
 
@@ -34,36 +32,55 @@ from here
 <p align="center">
   <img src="1200.jpg" width="800"/>
 </p>
-<center>
+
 Habit tracking app in react native
 
-🔹 create/edit habits<br>
-🔹 Track you're daily progress<br>
-🔹 gamified habit tracker with level up system and streaks<br>
+🔹 Create and edit unlimited habits<br>
+🔹 Help you track you're daily progress<br>
+🔹 it's Gamified with level up system and streaks<br>
 
 🛠️ **Tech stack:** React Native • Expo • supabase
 
 🔗 **Links:** [📂 Source Code](https://github.com/zakilisee/) • [🚀 Live Demo](https://github.com/zakilisee/)
 
-</center>
 ---
 
 <!--to here-->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gE2TVbjcyj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakilisie) 
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakilisee)
+[![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0055)](https://x.com/zakilisee)
+[![Instagram](https://img.shields.io/badge/Instagram-ff2d55?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zakilisee)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0055?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zakilisee)
+[![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=ff0055)](https://discord.gg/gE2TVbjcyj)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ff0055?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff2d55?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-ff0055?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-ff2d55?style=for-the-badge&logo=react&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=ff0055)
+![Postgres](https://img.shields.io/badge/Postgres-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=ff0055)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=ff0055)
+
+![Git](https://img.shields.io/badge/Git-ff2d55?style=for-the-badge&logo=git&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=ff0055)
+![VSCode](https://img.shields.io/badge/VSCode-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=ff0055)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zakilisie&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zakilisie&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zakilisie&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=zakilisee&theme=radical)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zakilisee&theme=radical)
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakilisee&theme=radical" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zakilisie1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ## 💰 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+![](https://github-profile-trophy.vercel.app/?username=zakilisee&theme=radical&margin-w=4)
+
+## 💰 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/onlyzaki) 
   
 for freelance work? do reach, [email]() :)
