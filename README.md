@@ -19,6 +19,13 @@ I'm an app dev and js lover.<br>
 
 # 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   34 mins               ██████████████████████░░░   88.52 %
+JavaScript   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+CSS          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🐍 Contribution Snake
