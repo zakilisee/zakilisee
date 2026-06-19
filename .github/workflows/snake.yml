@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: zakilisee
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=fe428e&color_dots=0f0c29,302b63,24243e,6d2cff,fe428e
+            dist/github-snake.svg?color_snake=fe428e&color_dots=0f0c29,302b63,24243e,6d2cff,fe428e
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
