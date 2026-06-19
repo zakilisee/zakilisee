@@ -16,7 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: zakilisee
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=fe428e&color_dots=#141321,#4b1d5d,#7a2cbf,#c13cff,#fe428e
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
