@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake (Dark)
 
 on:
   schedule:
@@ -16,14 +16,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: zakilisee
-
           outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Generate Radical Snake Theme
-        run: |
-          sed -i 's/#39d353/#fe428e/g' dist/github-contribution-grid-snake.svg || true
-          sed -i 's/#2ea043/#c13cff/g' dist/github-contribution-grid-snake.svg || true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
