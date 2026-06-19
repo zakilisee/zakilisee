@@ -13,14 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: WakaTime Stats
-        uses: JamesIves/github-pages-deploy-action@v4 # (NOT this actually used for WakaTime)
-
-      - name: Update WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: false
           TIME_RANGE: last_7_days
