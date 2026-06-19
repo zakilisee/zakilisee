@@ -1,4 +1,4 @@
-name: WakaTime Readme Stats
+name: WakaTime Stats
 
 on:
   workflow_dispatch:
@@ -13,8 +13,50 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Update WakaTime Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_7_days
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Get WakaTime data
+        run: |
+          curl -s -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
+          "https://wakatime.com/api/v1/users/current/summaries?range=last_7_days" \
+          > waka.json
+
+      - name: Generate README block
+        run: |
+          python3 - << 'EOF'
+          import json
+
+          data = json.load(open("waka.json"))
+          languages = data["data"][0]["languages"]
+
+          lines = []
+          total = 0
+
+          for lang in languages:
+              minutes = int(lang["total_seconds"] // 60)
+              total += minutes
+              lines.append(f'{lang["name"]:<12} {minutes} mins')
+
+          output = "# 📊 this week i spent my time on:\n\n```txt\n"
+          output += "\n".join(lines)
+          output += "\n```"
+
+          open("waka.md", "w").write(output)
+          EOF
+
+      - name: Update README
+        run: |
+          awk '
+          /<!--START_SECTION:waka-->/ {print; system("cat waka.md"); skip=1; next}
+          /<!--END_SECTION:waka-->/ {skip=0}
+          !skip {print}
+          ' README.md > temp && mv temp README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update waka stats" || exit 0
+          git push
