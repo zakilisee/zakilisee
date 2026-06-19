@@ -22,6 +22,11 @@ I'm an app dev and js lover.<br>
 
 <!--END_SECTION:waka-->
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/zakilisee/zakilisee/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🚀 Featured Projects
 <!--
