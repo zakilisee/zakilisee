@@ -13,7 +13,7 @@
 # Hey, I'm zaki 👋
 
 I'm an app dev and js lover.<br>
-🚀 I love using React Native because it's crossPlatform and js based<br>
+🚀 I love using React Native because it's crossPlatform framework and based on js.<br>
 ⚡ enjoy contributing to open source projects<br>
 📚 I'm expanding my knowledge to the backend side of app developement<br>
 
