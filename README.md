@@ -53,7 +53,7 @@ Habit tracking app in react native
 🔹 Help you track you're daily progress<br>
 🔹 it's Gamified with level up system and streaks<br>
 
-🛠️ **Tech stack:** React Native • Expo • cleark + postgress
+🛠️ **Tech stack:** React Native • Expo • cleark
 
 🔗 **Links:** [📂 Source Code](https://github.com/zakilisee/) • [🚀 Live Demo](https://github.com/zakilisee/)
 
