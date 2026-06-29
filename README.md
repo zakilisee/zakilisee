@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 # Hey, I'm zaki 👋
 
 I'm an app dev and js lover.<br>
