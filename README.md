@@ -20,13 +20,13 @@ I'm an app dev and js lover.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 34 mins
+Total Time: 12 hrs 17 mins
 
-TypeScript   9 hrs 42 mins         ████████████████████▒░░░░   81.13 %
-Other        23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-JSON         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-HTML         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Git Config   17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript   11 hrs 3 mins         █████████████████████▓░░░   87.02 %
+Other        24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JSON         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Git Config   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Git          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
