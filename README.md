@@ -20,11 +20,9 @@ I'm an app dev and js lover.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 mins
+Total Time: 17 mins
 
-TypeScript   36 mins               ██████████████████▒░░░░░░   73.58 %
-JavaScript   13 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   17 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
