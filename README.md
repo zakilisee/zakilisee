@@ -20,12 +20,11 @@ I'm an app dev and js lover.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 24 mins
 
-JSON       25 mins               █████████████████████▓░░░   86.48 %
-Markdown   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Other      1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JSON       23 mins               ██████████████████████▒░░   89.52 %
+Markdown   1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Other      1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
