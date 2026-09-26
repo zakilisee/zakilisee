@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DIMFLIX/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=zakilisee&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Zakirebuilds&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ No activity tracked
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/zakilisee/zakilisee/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Zakirebuilds/Zakirebuilds/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 # 🚀 Featured Projects
@@ -51,7 +51,7 @@ Habit tracking app in react native
 
 🛠️ **Tech stack:** React Native • Expo • cleark
 
-🔗 **Links:** [📂 Source Code](https://github.com/zakilisee/) • [🚀 Live Demo](https://github.com/zakilisee/)
+🔗 **Links:** [📂 Source Code](https://github.com/Zakirebuilds/) • [🚀 Live Demo](https://github.com/Zakirebuilds/)
 
 ---
 
@@ -59,10 +59,10 @@ Habit tracking app in react native
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakilisee)
-[![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0055)](https://x.com/zakilisee)
-[![Instagram](https://img.shields.io/badge/Instagram-ff2d55?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zakilisee)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0055?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zakilisee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakirebuilds)
+[![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0055)](https://x.com/Zakirebuilds)
+[![Instagram](https://img.shields.io/badge/Instagram-ff2d55?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Zakirebuilds)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0055?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Zakirebuilds)
 [![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=ff0055)](https://discord.gg/gE2TVbjcyj)
 
 # 💻 Tech Stack:
@@ -80,18 +80,17 @@ Habit tracking app in react native
 ![Expo](https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=ff0055)
 ![VSCode](https://img.shields.io/badge/VSCode-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=ff0055)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zakilisee&theme=radical)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zakilisee&theme=radical)
+![](https://github-readme-stats.shion.dev/api?username=Zakirebuilds&theme=radical)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zakirebuilds&theme=radical)
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakilisee&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakirebuilds&theme=radical" />
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=zakilisee&theme=radical&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Zakirebuilds&theme=radical&margin-w=4)
 
 ## 💰 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/onlyzaki) 
   
 for freelance work? do reach, [email]() :)
-
